@@ -1,0 +1,1 @@
+pyinstaller gui.py -w -F -i exeico.ico
